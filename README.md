@@ -1,7 +1,10 @@
 # Drowsiness-Detection-Alert-System
 In this project, i have developed a system to detect the level of drowsiness during driving. I have focused on early state detection of drowsiness and alert the driver in advance by
 performing the detection of facial features like Eye Aspect Ratio(EAR)and Score value.
-![](outputs/r1.png)
+![](Outputs/r1.png)
+![](Outputs/r2.png)
+![](Outputs/r3.png)
+
 I have added three labels at the bottom of the output window to show various possible scenarios in a person’s behavior.
 - The first label tells whether the eyes of a person are open or closed and is located at the bottom left of the output window. We have classified the **eye-opening and
 closing** based on **EAR value**. If the EAR value is less than the threshold value then we say that the eyes are open, otherwise, we say eyes are closed.
