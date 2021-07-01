@@ -1,6 +1,7 @@
 # Drowsiness-Detection-Alert-System
 In this project, i have developed a system to detect the level of drowsiness during driving. I have focused on early state detection of drowsiness and alert the driver in advance by
 performing the detection of facial features like Eye Aspect Ratio(EAR)and Score value.
+
 ![](Outputs/r1.png)
 ![](Outputs/r2.png)
 ![](Outputs/r3.png)
